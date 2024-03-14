@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Books {}","map":{"version":3,"names":["Books"],"sources":["C:\\Users\\NIVEDITAM1\\PracticeProject\\src\\app\\Books.ts"],"sourcesContent":["export class Books{\r\n    BookId!:number;\r\n    BookName!:string;\r\n    BookPrice!:number;\r\n}"],"mappings":"AAAA,OAAM,MAAOA,KAAK"},"metadata":{},"sourceType":"module","externalDependencies":[]}
